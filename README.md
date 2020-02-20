@@ -1,2 +1,3 @@
 # OpenGL_boilerplate
-Boilerplate c++ project for OpenGL
+Open this project in VScode.
+To build this project use ```Shift+Ctrl+B``` or on the menubar go to terminal->Run Build task.
